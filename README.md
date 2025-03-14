@@ -4,7 +4,7 @@
 - 🎓 I'm a **Computer Science** student at the University of Michigan
 - 🎻 Passionate about **software development** and **music** (Cello)
 - 🌌 I love **astronomy** and all things space-related
-- Currently building an **internship tracker app** with my school club
+- 💼 Currently building an **internship tracker app** with my school club
 - 🇯🇵 Preparing for a trip to **Japan** and learning **Japanese**!
 - **How to reach me:** [brshin@umich.edu](mailto:brshin@umich.edu)
 
