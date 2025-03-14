@@ -18,15 +18,7 @@
   <img src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src= "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
-![C++]()  
-![Python]()  
-![HTML]()  
-![CSS]()  
-![JavaScript]()   
-![Git]()  
-![React]()  
-![Figma]()  
+
 
 
 <!--
