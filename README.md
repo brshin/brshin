@@ -6,7 +6,6 @@
 - 🌌 I love **astronomy** and all things space-related
 - 🚀 Currently building real-time **flight software** with my school **rocketry** team
 - 🌏 Avid **Traveler** (Recently: Japan, Korea, New York)
-- **How to reach me:** [astrocello104@gmail.com](mailto:astrocello104@gmail.com)
 
 ### 🛠 Tech & Tools  
 <p align="center">
