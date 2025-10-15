@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Brandon
 
 ## About Me
-- 🎓 I'm a **Computer Science** student at the **University of Michigan**
+- 🎓 I'm a graduate student at **Rice University**
 - 🎻 Passionate about **software development** and **music** (Cello)
 - 🌌 I love **astronomy** and all things space-related
-- 💼 Currently building an **internship tracker app** with my school club
-- 🇯🇵 Preparing for a trip to **Japan** and learning **Japanese**!
-- **How to reach me:** [brshin@umich.edu](mailto:brshin@umich.edu)
+- 🚀 Currently building real-time **flight software** with my school **rocketry** team
+- 🌏 Avid **Traveler** (Recently: Japan, Korea, New York)
+- **How to reach me:** [astrocello104@gmail.com](mailto:astrocello104@gmail.com)
 
 ### 🛠 Tech & Tools  
 <p align="center">
