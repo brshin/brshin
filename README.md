@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm Brandon
 
 ## About Me
-- 🎓 I'm a graduate student at **Rice University**
-- 🎻 Passionate about **software development** and **music** (cello)
-- 🌌 I love **astronomy** and all things space-related
-- 🚀 Currently building real-time **flight software** with my school's **rocketry** team
-- 🌏 Avid **Traveler** (Recently: Japan, Korea, New York)
+- 🎓 I'm a graduate student at **Rice University**.
+- 🚀 Building real-time **flight software** with the Rice Rocketry team.
+- 🌌 Passionate about **space technology**, **astronomy**, and applying **software development** to complex challenges.
+- 🎻 Cellist & 🌏 Avid **Traveler** (Recent: Japan, Korea, New York)
 
 ### 🛠 Tech & Tools  
 <p align="center">
