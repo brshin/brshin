@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm a graduate student at **Rice University**.
-- 🚀 Building real-time **flight software** with the Rice Rocketry team.
+- 🚀 Building **flight computer software** and **full-stack mission control tools** with the Rice Eclipse Rocketry team.
 - 🌌 Passionate about **space technology**, **astronomy**, and applying **software development** to complex challenges.
 - 🎻 Cellist & 🌏 Avid **Traveler** (Recent: Japan, Korea, New York)
 
