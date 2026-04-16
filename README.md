@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Brandon
 
 ## About Me
-- 🎓 I'm a graduate student at **Rice University**.
-- 🚀 Building **flight computer software** and **full-stack mission control tools** with the Rice Eclipse Rocketry team.
-- 🌌 Passionate about **space technology**, **astronomy**, and applying **software development** to complex challenges.
-- 🎻 Cellist & 🌏 Avid **Traveler** (Recent: Japan, Korea, New York)
+🎓 B.S. in Computer Science (UMich) + Graduate Studies (Rice University)
+🚀 Building embedded C++ avionics and full-stack applications (Previously: Software @ Rice Eclipse & Michigan Hackers).
+🌌 Interested in space technology, deep-space robotics, and building systems that solve complex, real-world problems.
+🎻 Former Professional Cellist (Aspen Music Festival, Carnegie Hall)
 
 ### 🛠 Tech & Tools  
 <p align="center">
