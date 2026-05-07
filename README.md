@@ -2,9 +2,9 @@
 
 ## About Me
 - 🎓 B.S. in Computer Science (UMich) + Graduate Studies (Rice University)
-- 🚀 Building embedded C++ avionics and full-stack applications (Software @ Rice Eclipse & Michigan Hackers).
+- 🚀 Building full-stack applications and embedded C++ avionics (Software @ Rice Eclipse & Michigan Hackers).
 - 🌌 Interested in space technology, deep-space robotics, and building systems that solve complex, real-world problems.
-- 🎻 Former Professional Cellist (Aspen Music Festival, Carnegie Hall)
+- 🎻 Classically-trained Cellist (Aspen Music Festival, Carnegie Hall)
 
 ### 🛠 Tech & Tools  
 <p align="center">
