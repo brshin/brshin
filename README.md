@@ -1,10 +1,14 @@
-## Hi there 👋 I'm Brandon
+# Hi, I'm Brandon 🚀
 
-## About Me
-- 🎓 B.S. in Computer Science (UMich) + Graduate Studies (Rice University)
-- 🚀 Building full-stack applications and embedded C++ avionics (Software @ Rice Eclipse & Michigan Hackers).
-- 🌌 Interested in space technology, deep-space robotics, and building systems that solve complex, real-world problems.
-- 🎻 Classically-trained Cellist (Aspen Music Festival, Carnegie Hall)
+**Thinker. Builder. Software engineer focused on the space industry.**
+
+My journey is driven by a fascination with complex systems and the human frontier. I build mission-critical tools, scalable web applications, and technology designed to move the world forward. 
+
+### 🛰️ Fast Facts
+- **Focus:** Space technology, full-stack systems, and mission control dashboards.
+- **Engineering:** Developing C firmware and full-stack telemetry dashboards for Rice Eclipse Rocketry; built scalable web apps with Michigan Hackers. 
+- **Education:** B.S. in Computer Science & Astronomy (UMich) ➔ Graduate Studies (Rice University).
+- **Beyond the terminal:** Classically trained cellist (Carnegie Hall, Aspen Music Festival). I bring the same rigorous precision and discipline from the stage to my codebase.
 
 ### 🛠 Tech & Tools  
 <p align="center">
