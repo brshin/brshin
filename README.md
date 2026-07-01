@@ -6,7 +6,7 @@ My journey is driven by a fascination with complex systems and the human frontie
 
 ### 🛰️ Fast Facts
 - **Focus:** Space technology, full-stack systems, and mission control dashboards.
-- **Engineering:** Developing C firmware and full-stack telemetry dashboards for Rice Eclipse Rocketry; built scalable web apps with Michigan Hackers. 
+- **Engineering:** Experience developing full-stack telemetry dashboards and C firmware for Rice Eclipse Rocketry, and building scalable web apps with Michigan Hackers.
 - **Education:** B.S. in Computer Science & Astronomy (UMich) ➔ Graduate Studies (Rice University).
 - **Beyond the terminal:** Classically trained cellist (Carnegie Hall, Aspen Music Festival). I bring the same rigorous precision and discipline from the stage to my codebase.
 
