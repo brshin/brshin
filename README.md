@@ -1,5 +1,3 @@
-# Brandon Shin
-
 **Thinker. Builder. Software engineer focused on the space industry.**
 
 My journey is driven by a fascination with complex systems and the human frontier. I build mission-critical tools, scalable web applications, and technology designed to move the world forward. 
