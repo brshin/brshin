@@ -5,7 +5,6 @@ My journey is driven by a fascination with complex systems and the human frontie
 - **Focus:** Full-stack aerospace software, web-based telemetry interfaces, and mission control dashboards.
 - **Engineering:** Experience engineering full-stack mission control features and flight computer firmware for Rice Eclipse Rocketry, and developing secure routing infrastructure with Michigan Hackers.
 - **Education:** B.S. in Computer Science & Astronomy (UMich) ➔ Graduate Studies (Rice University).
-- **Beyond the terminal:** Classically trained cellist with consecutive performance invitations to Carnegie Hall and the Aspen Music Festival. I bring the same rigorous precision and dedication from the stage to my codebase.
 
 | Category | Stack / Tools |
 | :--- | :--- |
